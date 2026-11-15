@@ -1,0 +1,11 @@
+# Xcode user data and build products
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Local API credentials
+Secrets.xcconfig
+
+# macOS
+.DS_Store
